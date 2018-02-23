@@ -1,0 +1,1590 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 118,
+          "y": 281,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\">a development experience <br></font>",
+          "selected": false,
+          "customClasses": "h1"
+        },
+        {
+          "TextBox": {},
+          "x": 268,
+          "y": 380,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\">not only Windows <br></font>",
+          "selected": false,
+          "skewX": 0,
+          "customClasses": "h1"
+        },
+        {
+          "TextBox": {},
+          "x": 278,
+          "y": 93,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 102,
+          "text": "<font face=\"'Ubuntu', sans-serif\" color=\"#ff5700\"><b>Tavolinux</b></font>",
+          "selected": false,
+          "customClasses": "h1"
+        },
+        {
+          "TextBox": {},
+          "x": 678,
+          "y": 642,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "Powered by node.js &amp; Impress.js<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 108,
+      "y": 92,
+      "background": "img:http://localhost:8080/lupin2.png"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 123,
+          "y": 43,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"'Ubuntu', sans-serif\" color=\"#ff5700\"><b>From video games to ERP<br></b></font>",
+          "selected": false,
+          "customClasses": "h1"
+        },
+        {
+          "TextBox": {},
+          "x": 96,
+          "y": 208,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><font face=\"'Lato', sans-serif\" color=\"#000000\"><font color=\"#ff5700\">30</font> years self-taught <font color=\"#0890f8\">(</font><font color=\"#ff5700\">43</font><font color=\"#0890f8\">)</font></font></li><li><font face=\"'Lato', sans-serif\" color=\"#000000\">p.e. c.t. con specializzazione in i.</font></li><li><font face=\"'Lato', sans-serif\" color=\"#000000\"><font color=\"#ff5700\">2</font> years video games <font color=\"#0890f8\">(</font>a lot of asm&nbsp; C<font color=\"#0890f8\">)</font></font></li><li><font face=\"'Lato', sans-serif\" color=\"#000000\">Technician <font color=\"#0890f8\">/</font> developer</font></li><li><font face=\"'Lato', sans-serif\" color=\"#000000\">System administrator <font color=\"#0890f8\">/</font> analyst</font></li><li><font face=\"'Lato', sans-serif\" color=\"#000000\">ICT manager <font color=\"#0890f8\">/</font> project manager</font></li><li><font face=\"'Lato', sans-serif\" color=\"#000000\">System integrator <font color=\"#0890f8\">/</font> quality manager</font></li><li><font face=\"'Lato', sans-serif\" color=\"#000000\">Steve no Jobs</font></li></ul>",
+          "size": 54,
+          "selected": false,
+          "skewX": 0,
+          "customClasses": "footer"
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 1.26,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-smoke",
+      "markdown": "",
+      "x": 197,
+      "y": 92
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 151,
+          "y": 49,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ff5700\"><b><font face=\"'Ubuntu', sans-serif\">September 2002: the call</font></b></font>",
+          "size": 54,
+          "selected": false,
+          "skewX": 0,
+          "customClasses": "h1"
+        },
+        {
+          "TextBox": {},
+          "x": 22,
+          "y": 231,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li>Development application to manage pizzerias </li><li><font color=\"#0890f8\">(</font>replacement of resale:1000€ monthly fee<font color=\"#0890f8\">)</font></li><li>Pizza ?? <font color=\"#0890f8\">=</font> <font color=\"#ff5700\">½</font> pizza ? <font color=\"#0890f8\">+</font> <font color=\"#ff5700\">½</font> pizza ?</li><li>Demo in <font color=\"#ff5700\">6</font> month with Powerpoint?</li><li>best competitor<font color=\"#0890f8\">:</font>&nbsp;Verona software's bacco</li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": -0.24,
+      "rotateY": -0.96,
+      "rotateZ": -1.57,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 283,
+      "y": 92
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 98,
+          "y": 224,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li>In <font color=\"#ff5700\">6</font> months a prototype</li><li>Pizza ?? <font color=\"#0890f8\">→</font> db table as a mini Excel <br>with pre-coded formulas </li><li>Searching the Internet for every similar <br>products and comparison of interfaces<br> and functionality</li><li>Few images and still less the <font color=\"#0890f8\">f (x)</font></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 151,
+          "y": 49,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ff5700\"><b><font face=\"'Ubuntu', sans-serif\">September 2002: the reply</font></b></font>",
+          "size": 54,
+          "selected": false,
+          "skewX": 0,
+          "customClasses": "h1"
+        }
+      ],
+      "z": 0,
+      "impScale": 0.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 348,
+      "y": 91
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 121,
+          "y": 284,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><b>Linux</b> bacause cash point at <font color=\"#ff5700\">800</font>Mhz </li><li>db mesh based on XML</li><li><b>Tcl/Tk</b> language</li><li><b>Gtk</b> graphic library</li></ul>",
+          "size": 54,
+          "selected": false,
+          "skewX": 0,
+          "customClasses": "footer"
+        },
+        {
+          "TextBox": {},
+          "x": 198,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#ff5700\"><b><font face=\"'Ubuntu', sans-serif\">linux, postgresql, C++ e qt</font></b></font>",
+          "selected": false,
+          "customClasses": "h1"
+        },
+        {
+          "TextBox": {},
+          "x": 69,
+          "y": 202,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li><b>Needs of the buyer</b></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.92,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 114,
+      "y": 160
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 76,
+          "y": 190,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li>Linux ok for performance, stability and cost</li><li>Fantastic idea but xml db reticular too slow</li><li>Tcl/Tk too slow</li><li>Gtk&nbsp;<span style=\"line-height: 1em;\">too young</span></li></ul>",
+          "size": 46,
+          "selected": false,
+          "skewX": 0,
+          "customClasses": "footer"
+        },
+        {
+          "TextBox": {},
+          "x": 198,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#ff5700\"><b><font face=\"'Ubuntu', sans-serif\">linux, postgresql, C++ e qt</font></b></font>",
+          "selected": false,
+          "customClasses": "h1"
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.94,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 198,
+      "y": 164
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 57,
+          "y": 148,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li>My alternative solutions</li></ul>",
+          "size": 54,
+          "selected": false,
+          "skewX": 0,
+          "customClasses": "footer"
+        },
+        {
+          "TextBox": {},
+          "x": 198,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#ff5700\"><b><font face=\"'Ubuntu', sans-serif\">linux, postgresql, C++ e qt</font></b></font>",
+          "selected": false,
+          "customClasses": "h1"
+        },
+        {
+          "TextBox": {},
+          "x": 102,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li>Postgresql has been stable for years,</li><li>RDBMS complete and expandable</li><li>C++ does not need an introduction<br><span style=\"line-height: 1em;\">and does not scare us (Kylix?)</span></li><li>Qt stable, solid, in increasing spread</li><li>they are all multiplatform tools</li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 136,
+          "y": 564,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li>(back to windows o up to apple)</li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.94,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 287,
+      "y": 163
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 327,
+          "y": 64,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"'Ubuntu', sans-serif\"><b><font color=\"#ff5700\">Clarifications</font></b></font>",
+          "selected": false,
+          "customClasses": "h1"
+        },
+        {
+          "TextBox": {},
+          "x": 78,
+          "y": 201,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li>Tavolinux is not TavoLinux,<br> the talk on Free Software</li><li>Tavolinux is not the product <br>of the same name that uses this interface</li><li>This is not advertising</li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 421,
+      "y": 91
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/competitor3_sala.png",
+          "type": "Image",
+          "x": 20,
+          "y": 103,
+          "scale": {
+            "x": 0.6039119804400978,
+            "y": 0.6039119804400978,
+            "width": 987.9999999999999,
+            "height": 592.4376528117359
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 389,
+      "y": 260
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/competitor2_sala.jpg",
+          "type": "Image",
+          "x": 165,
+          "y": 22,
+          "scale": {
+            "x": 1.318,
+            "y": 1.318,
+            "width": 659,
+            "height": 698.5400000000001
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 478,
+      "y": 259
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/competitor3_sala.jpg",
+          "type": "Image",
+          "x": 124,
+          "y": 9,
+          "scale": {
+            "x": 0.5361356932153393,
+            "y": 0.5361356932153393,
+            "width": 727,
+            "height": 745.2286135693216
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 476,
+      "y": 331
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/competitor1_sala.jpg",
+          "type": "Image",
+          "x": 56,
+          "y": 46,
+          "scale": {
+            "x": 0.8974609375,
+            "y": 0.8974609375,
+            "width": 919,
+            "height": 667.7109375
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 387,
+      "y": 332
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/competitor1_comanda.png",
+          "type": "Image",
+          "x": 117,
+          "y": 64,
+          "scale": {
+            "x": 1.2433697347893915,
+            "y": 1.2433697347893915,
+            "width": 797,
+            "height": 606.764430577223
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 386,
+      "y": 405
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/competitor1_pda.png",
+          "type": "Image",
+          "x": 293,
+          "y": 43,
+          "scale": {
+            "x": 2.2222222222222223,
+            "y": 2.2222222222222223,
+            "width": 400,
+            "height": 666.6666666666667
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 470,
+      "y": 402
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 195,
+          "y": 279,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 101,
+          "text": "primary features<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.58,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 370,
+      "y": 162,
+      "background": "bg-solid-yellow"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 141,
+          "y": 204,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 75,
+          "text": "<ul><li><font color=\"#ff5700\">100.000</font> rows of code</li><li><font color=\"#ff5700\">10%</font> are comments</li><li><font color=\"#ff5700\">200 </font>files <font color=\"#0890f8\">(</font>many images<font color=\"#0890f8\">)</font></li><li><font color=\"#ff5700\">5</font> folders</li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 5,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.55,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 455,
+      "y": 164
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 137,
+          "y": 57,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "prototype after 6 months<br>",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/before_cure_1.png",
+          "type": "Image",
+          "x": 34,
+          "y": 176,
+          "scale": {
+            "x": 0.56,
+            "y": 0.56,
+            "width": 448.00000000000006,
+            "height": 336.00000000000006
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/before_cure_2.jpg",
+          "type": "Image",
+          "x": 529,
+          "y": 177,
+          "scale": {
+            "x": 0.5525,
+            "y": 0.5525,
+            "width": 442,
+            "height": 331.5
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0.84,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 509,
+      "y": 92
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 151,
+          "y": 78,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "After 6 months and one day",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/1st_im1.jpg",
+          "type": "Image",
+          "x": 38,
+          "y": 189,
+          "scale": {
+            "x": 0.56375,
+            "y": 0.56375,
+            "width": 451,
+            "height": 338.25
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/1st_im1.png",
+          "type": "Image",
+          "x": 34,
+          "y": 191,
+          "scale": {
+            "x": 0.568922305764411,
+            "y": 0.568922305764411,
+            "width": 454,
+            "height": 340.7844611528822
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/tavolinux_2.png",
+          "type": "Image",
+          "x": 523,
+          "y": 192,
+          "scale": {
+            "x": 0.5657071339173968,
+            "y": 0.5657071339173968,
+            "width": 452.00000000000006,
+            "height": 338.8585732165207
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 3,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": -0.36,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 595,
+      "y": 93
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/1st_im1.png",
+          "type": "Image",
+          "x": 26,
+          "y": 24,
+          "scale": {
+            "x": 1.2155388471177946,
+            "y": 1.2155388471177946,
+            "width": 970.0000000000001,
+            "height": 728.1077694235589
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 542,
+      "y": 155
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/1st_im2.png",
+          "type": "Image",
+          "x": 22,
+          "y": 18,
+          "scale": {
+            "x": 1.2142857142857144,
+            "y": 1.2142857142857144,
+            "width": 969.0000000000001,
+            "height": 726.1428571428572
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 631,
+      "y": 157
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/tavolinux_2.png",
+          "type": "Image",
+          "x": 23,
+          "y": 24,
+          "scale": {
+            "x": 1.1952440550688361,
+            "y": 1.1952440550688361,
+            "width": 955.0000000000001,
+            "height": 715.9511889862329
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 625,
+      "y": 234
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/pda_main_left.png",
+          "type": "Image",
+          "x": 53,
+          "y": 23,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/pda_main_right.png",
+          "type": "Image",
+          "x": 388,
+          "y": 23,
+          "scale": {
+            "x": 1.0541666666666667,
+            "y": 1.0541666666666667,
+            "width": 253,
+            "height": 337.33333333333337
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/pda_comanda.png",
+          "type": "Image",
+          "x": 54,
+          "y": 392,
+          "scale": {
+            "x": 0.980544747081712,
+            "y": 0.980544747081712,
+            "width": 252,
+            "height": 335.3463035019455
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/pda_menu.png",
+          "type": "Image",
+          "x": 389,
+          "y": 391,
+          "scale": {
+            "x": 1.05,
+            "y": 1.05,
+            "width": 252,
+            "height": 336
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/pda_articolo.png",
+          "type": "Image",
+          "x": 720,
+          "y": 26,
+          "scale": {
+            "x": 1.025,
+            "y": 1.025,
+            "width": 245.99999999999997,
+            "height": 328
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/pda_listino.png",
+          "type": "Image",
+          "x": 722,
+          "y": 395,
+          "scale": {
+            "x": 1.0291666666666668,
+            "y": 1.0291666666666668,
+            "width": 247.00000000000003,
+            "height": 329.33333333333337
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 621,
+      "y": 316
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/pda_calc.png",
+          "type": "Image",
+          "x": 28,
+          "y": 197,
+          "scale": {
+            "x": 1.2333333333333334,
+            "y": 1.2333333333333334,
+            "width": 296,
+            "height": 394.6666666666667
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/pda_calend.png",
+          "type": "Image",
+          "x": 365,
+          "y": 203,
+          "scale": {
+            "x": 1.2,
+            "y": 1.2,
+            "width": 288,
+            "height": 384
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/pda_keyb.png",
+          "type": "Image",
+          "x": 695,
+          "y": 207,
+          "scale": {
+            "x": 1.1833333333333333,
+            "y": 1.1833333333333333,
+            "width": 284,
+            "height": 378.6666666666667
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 713,
+      "y": 311
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/tavolinux_4.png",
+          "type": "Image",
+          "x": 31,
+          "y": 26,
+          "scale": {
+            "x": 1.1827284105131415,
+            "y": 1.1827284105131415,
+            "width": 945,
+            "height": 708.4543178973718
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.58,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 705,
+      "y": 233
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/table.png",
+          "type": "Image",
+          "x": 105,
+          "y": 228,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 366,
+          "y": 82,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Processes<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "markdown": "\n",
+      "x": 682,
+      "y": 93,
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/server.png",
+          "type": "Image",
+          "x": 34,
+          "y": 94,
+          "scale": {
+            "x": 1.0177267987486966,
+            "y": 1.0177267987486966,
+            "width": 976.0000000000001,
+            "height": 662.5401459854015
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 273,
+          "y": 9,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Server &amp; Client<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "x": 777,
+      "y": 164
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/client_telnet.png",
+          "type": "Image",
+          "x": 42,
+          "y": 17,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.58,
+      "index": 26,
+      "selected": false,
+      "active": false,
+      "x": 791,
+      "y": 227
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/tavolinux_1.png",
+          "type": "Image",
+          "x": 61,
+          "y": 77,
+          "scale": {
+            "x": 1.1275,
+            "y": 1.1275,
+            "width": 902,
+            "height": 676.5
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 336,
+          "y": -15,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#ff5700\">Smart learning</font><br>",
+          "selected": false,
+          "customClasses": "h1"
+        },
+        {
+          "src": "http://localhost:8080/1st_im1.jpg",
+          "type": "Image",
+          "x": 8,
+          "y": 202,
+          "scale": {
+            "x": 0.6062499999999998,
+            "y": 0.6062499999999998,
+            "width": 484.9999999999999,
+            "height": 363.7499999999999
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.56,
+      "index": 27,
+      "selected": true,
+      "active": true,
+      "x": 797,
+      "y": 91
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/comanda.mp4",
+          "type": "Video",
+          "x": 88,
+          "y": 130,
+          "scale": {
+            "x": 0.858039419087137,
+            "y": 0.858039419087137,
+            "width": 827.1500000000001,
+            "height": 617.7883817427386
+          },
+          "shortSrc": "http://localhost:8080/comanda.mp4",
+          "videoType": "html5",
+          "srcType": "video/mp4",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 388,
+          "y": 11,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#ff5700\">Comanda</font>",
+          "selected": false,
+          "customClasses": "h1"
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 28,
+      "selected": false,
+      "active": false,
+      "background": "bg-custom-1b1717",
+      "x": 874,
+      "y": 164
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/bill.mp4",
+          "type": "Video",
+          "x": 134,
+          "y": 145,
+          "scale": {
+            "x": 0.7601562500000001,
+            "y": 0.7601562500000001,
+            "width": 729.7500000000001,
+            "height": 547.3125000000001
+          },
+          "shortSrc": "http://localhost:8080/bill.mp4",
+          "videoType": "html5",
+          "srcType": "video/mp4",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 384,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"'Ubuntu', sans-serif\" color=\"#ff5700\"><b>The bill<br></b></font>",
+          "selected": false,
+          "customClasses": "h1"
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 29,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-black",
+      "x": 885,
+      "y": 99
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/form_cards.jpg",
+          "type": "Image",
+          "x": 165,
+          "y": 236,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 434,
+          "y": 59,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 62,
+          "text": "<font color=\"#ff5700\">Form</font>",
+          "selected": false,
+          "customClasses": "h1"
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 30,
+      "selected": false,
+      "active": false,
+      "x": 971,
+      "y": 166
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/turns.png",
+          "type": "Image",
+          "x": 269,
+          "y": 252,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 320,
+          "y": 70,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 62,
+          "text": "<font color=\"#ff5700\">Form interaction<br></font>",
+          "selected": false,
+          "customClasses": "h1"
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 31,
+      "selected": false,
+      "active": false,
+      "x": 981,
+      "y": 100
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "linked controls<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 435,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "auto coloring<br>",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/turns_unselected.png",
+          "type": "Image",
+          "x": 83,
+          "y": 125,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/turns_selected.png",
+          "type": "Image",
+          "x": 553,
+          "y": 124,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/msgbox_1.png",
+          "type": "Image",
+          "x": 485,
+          "y": 445,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://localhost:8080/msgbox_2.png",
+          "type": "Image",
+          "x": 731,
+          "y": 442,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 32,
+      "selected": false,
+      "active": false,
+      "x": 1058,
+      "y": 164
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/tavolinux_form_script.png",
+          "type": "Image",
+          "x": 6,
+          "y": 25,
+          "scale": {
+            "x": 0.7027777777777778,
+            "y": 0.7027777777777778,
+            "width": 1012.0000000000001,
+            "height": 715.4277777777778
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 33,
+      "selected": false,
+      "active": false,
+      "x": 1064,
+      "y": 96,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "src": "http://localhost:8080/toon.mp4",
+          "type": "Video",
+          "x": 50,
+          "y": 167,
+          "scale": {
+            "x": 0.73125,
+            "y": 0.73125,
+            "width": 936,
+            "height": 526.5
+          },
+          "shortSrc": "http://localhost:8080/toon.mp4",
+          "videoType": "html5",
+          "srcType": "video/mp4",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 230,
+          "y": 43,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#ff5700\"><b><font face=\"'Ubuntu', sans-serif\">The cartoon for marketing<br></font></b></font>",
+          "selected": false,
+          "customClasses": "h1"
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.59,
+      "index": 34,
+      "selected": false,
+      "active": false,
+      "markdown": "\n  ",
+      "x": 1156,
+      "y": 132
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "src": "http://localhost:8080/tavolinux_1.png",
+        "type": "Image",
+        "x": 61,
+        "y": 77,
+        "scale": {
+          "x": 1.1275,
+          "y": 1.1275,
+          "width": 902,
+          "height": 676.5
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 336,
+        "y": -15,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 64,
+        "text": "<font color=\"#ff5700\">Smart learning</font><br>",
+        "selected": false,
+        "customClasses": "h1"
+      },
+      {
+        "src": "http://localhost:8080/1st_im1.jpg",
+        "type": "Image",
+        "x": 8,
+        "y": 202,
+        "scale": {
+          "x": 0.6062499999999998,
+          "y": 0.6062499999999998,
+          "width": 484.9999999999999,
+          "height": 363.7499999999999
+        },
+        "imageType": "JPG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 1,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": -1.56,
+    "index": 27,
+    "selected": true,
+    "active": true,
+    "x": 797,
+    "y": 91
+  },
+  "fileName": "tavolinux.strut",
+  "customStylesheet": "/*.example {\n\tborder: 14px groove orange;\n}*/\n.strut-surface .content.h1 {\n    /*background: rgba(255, 255, 255, 0.5) none repeat scroll 0 0;*/\n    .strut-surface border-radius: 0.2em;\n    /*color: inherit;*/\n    padding: 0 0.1em;\n    text-decoration: none;\n    /*text-shadow: 1px 1px 2px rgba(10, .strut-surface 10, .strut-surface 10, .strut-surface 0.9);*/\n    text-shadow: 2px 2px 2px black;\n    transition: all 0.5s ease 0s;\n    font-family:\"UBUNTU\";\n    font-size:48px;\n    font-color:\"#ff5700\";\n}\n",
+  "deckVersion": "1.0",
+  "cannedTransition": "coverflow",
+  "customBackgrounds": {
+    "bgs": [
+      {
+        "klass": "bg-custom-1b1717",
+        "style": "#1b1717"
+      }
+    ]
+  },
+  "overviewX": 632,
+  "overviewY": 248
+}

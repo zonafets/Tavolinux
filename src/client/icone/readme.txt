@@ -1,0 +1,1 @@
+put here 32x32 size icons that will be automatically loaded into icon view control (tr_iconviewer)
